@@ -1,0 +1,139 @@
+
+
+
+
+:root {
+
+  --font-ui: "IBM Plex Sans", "Source Sans 3", "Segoe UI", "Helvetica Neue", sans-serif;
+  --font-mono: "JetBrains Mono", "IBM Plex Mono", "Fira Code", "Cascadia Mono", Consolas, monospace;
+
+
+  --gap: 2px;
+  --radius: 12px;
+  --radius-sm: 10px;
+
+
+  --ui-bg: #f6f8fa;
+  --ui-bg-2: #eef2f7;
+  --panel-bg: #ffffff;
+  --panel-border: #d0d7de;
+  --panel-header-bg: #f3f4f6;
+
+  --text: #1f2328;
+  --muted: #57606a;
+  --muted-2: #6e7781;
+
+  --accent: #007acc;
+  --accent-2: #0550ae;
+  --selection: rgba(0, 122, 204, 0.18);
+  --editor-fg: #0b1020;
+
+
+  --tok-keyword: #0550ae;
+  --tok-string: #0a7d32;
+  --tok-comment: #6e7781;
+  --tok-number: #953800;
+  --tok-constant: #8250df;
+  --tok-type: #116329;
+  --tok-attribute: #9a6700;
+  --tok-variable: #8a2be2;
+  --tok-meta: #57606a;
+  --tok-error: #b42318;
+  --tok-warn: #9a6700;
+  --tok-info: #0550ae;
+
+  --shadow: 0 12px 30px rgba(31, 35, 40, 0.10);
+  --shadow-soft: 0 6px 18px rgba(31, 35, 40, 0.08);
+
+
+
+  --term-screen-bg: #ffffff;
+  --term-screen-bg-2: #f3f6fb;
+  --term-screen-border: rgba(208, 215, 222, 0.90);
+  --term-screen-fg: #0b1020;
+  --term-screen-muted: #57606a;
+  --term-screen-command: #0b1020;
+  --term-screen-output: #0b6b2d;
+  --term-screen-system: #0550ae;
+  --term-screen-error: #b42318;
+  --term-screen-matrix: #0a7d32;
+  --term-screen-success: #0a7d32;
+  --term-snake-snake: #0b6b2d;
+  --term-snake-food: #b42318;
+  --term-screen-form-bg: rgba(0, 0, 0, 0.03);
+  --term-screen-caret: #b45309;
+  --term-screen-selection: rgba(0, 122, 204, 0.18);
+
+
+  --explorer-width: 280px;
+  --terminal-height: 270px;
+
+
+  --focus-ring: 0 0 0 3px rgba(0, 122, 204, 0.25);
+  --focus-ring-strong: 0 0 0 4px rgba(0, 122, 204, 0.30);
+
+  color-scheme: light dark;
+}
+
+:root[data-theme="dark"] {
+  --ui-bg: #0f111a;
+  --ui-bg-2: #0b0d14;
+  --panel-bg: #1d1f27;
+  --panel-border: #303545;
+  --panel-header-bg: #222531;
+
+  --text: #e6edf3;
+  --muted: #9aa4b2;
+  --muted-2: #7f8a99;
+
+  --accent: #58d3ff;
+  --accent-2: #7aa7ff;
+  --selection: rgba(88, 211, 255, 0.22);
+  --editor-fg: #e6edf3;
+
+
+  --tok-keyword: #7aa7ff;
+  --tok-string: #35d07f;
+  --tok-comment: rgba(147, 163, 184, 0.85);
+  --tok-number: #ffd24a;
+  --tok-constant: #c297ff;
+  --tok-type: #7ee787;
+  --tok-attribute: #ffd24a;
+  --tok-variable: #58d3ff;
+  --tok-meta: #93a3b8;
+  --tok-error: #ff5c70;
+  --tok-warn: #ffd24a;
+  --tok-info: #58d3ff;
+
+  --shadow: 0 18px 40px rgba(0, 0, 0, 0.45);
+  --shadow-soft: 0 10px 24px rgba(0, 0, 0, 0.35);
+
+  --term-bg: #070a12;
+  --term-bg-2: #0b1020;
+  --term-border: rgba(255, 255, 255, 0.10);
+  --term-fg: #e6edf3;
+  --term-muted: #93a3b8;
+
+  --term-screen-bg: rgba(11, 16, 32, 0.85);
+  --term-screen-bg-2: rgba(15, 23, 42, 0.95);
+  --term-screen-border: rgba(255, 255, 255, 0.10);
+  --term-screen-fg: #e6edf3;
+  --term-screen-muted: #93a3b8;
+  --term-screen-command: rgba(230, 237, 243, 0.96);
+  --term-screen-output: #35d07f;
+  --term-screen-system: #58d3ff;
+  --term-screen-error: #ff5c70;
+  --term-screen-matrix: #35d07f;
+  --term-screen-success: #35d07f;
+  --term-snake-snake: #35d07f;
+  --term-snake-food: #ff5c70;
+  --term-screen-form-bg: rgba(0, 0, 0, 0.14);
+  --term-screen-caret: #ffd24a;
+  --term-screen-selection: rgba(255, 210, 74, 0.22);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    scroll-behavior: auto;
+  }
+}

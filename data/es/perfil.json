@@ -1,0 +1,12 @@
+{
+  "name": "Daniel Betancourt",
+  "role": "Ingeniero Full Stack | Java y .NET | APIs (REST / SOAP) | Microservicios / Microfrontends | Consultor Técnico | Data Engineer",
+  "tagline": "Ingeniero de software senior construyendo backends escalables, APIs distribuidas y servicios cloud-native.",
+  "summary": "Ingeniero de software senior con sólida experiencia diseñando y construyendo sistemas backend escalables, APIs distribuidas y aplicaciones empresariales de alto rendimiento. Especializado en soluciones .NET y Java, arquitectura de microservicios, integraciones y plataformas orientadas a datos. Experiencia con REST/SOAP/gRPC, arquitecturas orientadas a eventos (AMQP/RabbitMQ), WebSockets, AWS, Docker/Kubernetes y bases de datos SQL/NoSQL.",
+  "contact": {
+    "email": "danbet@gmail.com",
+    "phone": "+506 8719 9069",
+    "linkedin": "www.linkedin.com/in/danielbetancourt-21155792",
+    "github": "https://github.com/betdan"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "ObtenerProyectosRespuesta": {
+    "Anios": [
+      {
+        "anio": "2026",
+        "proyectos": [
+          {
+            "nombre": "Aplicación Móvil (Evolución y Modernización)",
+            "resumen": "Refactorización y evolución de servicios críticos bajo una arquitectura desacoplada y cloud-native.",
+            "aspectosDestacados": [
+              "Implementación de arquitectura desacoplada integrando AWS (SQS, SNS) con persistencia en PostgreSQL.",
+              "Aplicación de prácticas de observabilidad (logs estructurados, métricas, health checks).",
+              "Optimización de servicios de transferencias, autenticación biométrica y gestión de claves.",
+              "Diseño de servicios para certificados de inversión y consulta de saldos."
+            ]
+          },
+          {
+            "nombre": "Onboarding Digital y KYC",
+            "resumen": "Automatización del proceso de vinculación digital de clientes.",
+            "aspectosDestacados": [
+              "Implementación y mejora del servicio KYC.",
+              "Desarrollo de flujos digitales para onboarding de clientes."
+            ]
+          },
+          {
+            "nombre": "Mensajería e Integraciones (MQ / ISO)",
+            "resumen": "Modernización de integraciones con sistemas legacy y procesadores externos.",
+            "aspectosDestacados": [
+              "Migración y desarrollo de servicios sobre colas de mensajería MQ.",
+              "Integración con tramas ISO 8583 para procesamiento de tarjetas de crédito."
+            ]
+          },
+          {
+            "nombre": "Pagos y Automatización",
+            "resumen": "Automatización de pagos recurrentes y sistemas de notificación.",
+            "aspectosDestacados": [
+              "Implementación de procesos batch y tareas programadas.",
+              "Diseño de servicios de procesamiento y consulta de pagos."
+            ]
+          },
+          {
+            "nombre": "Gestión de Errores y Listas Blancas",
+            "resumen": "Estandarización y certificación de códigos de error.",
+            "aspectosDestacados": [
+              "Normalización de códigos de error y manejo de estados críticos.",
+              "Implementación de mecanismos de reportería y auditoría."
+            ]
+          }
+        ]
+      },
+      {
+        "anio": "2025",
+        "proyectos": [
+          {
+            "nombre": "Servicios de Seguridad y OTP",
+            "resumen": "Implementación de mecanismos de autenticación y validación.",
+            "aspectosDestacados": [
+              "Generación de OTP y envío de notificaciones SMS.",
+              "Despliegue de APIs en IIS para flujos críticos."
+            ]
+          },
+          {
+            "nombre": "Arquitectura en Contenedores",
+            "resumen": "Adopción de arquitectura cloud-native utilizando Kubernetes.",
+            "aspectosDestacados": [
+              "Gestión de despliegues con Docker y Helm.",
+              "Automatización de CI/CD."
+            ]
+          },
+          {
+            "nombre": "Servicios de Encriptación",
+            "resumen": "Implementación de servicios de seguridad y manejo de certificados.",
+            "aspectosDestacados": [
+              "Desarrollo de servicios desacoplados usando .NET 8.",
+              "Gestión de claves y cifrado AES."
+            ]
+          }
+        ]
+      },
+      {
+        "anio": "2024",
+        "proyectos": [
+          {
+            "nombre": "APIs Core y Arquitectura K8s",
+            "resumen": "Exposición de servicios backend bajo una arquitectura de microservicios.",
+            "aspectosDestacados": [
+              "Desarrollo de APIs REST escalables.",
+              "Implementación de patrones de arquitectura."
+            ]
+          },
+          {
+            "nombre": "ETL y Procesamiento de Datos",
+            "resumen": "Optimización de procesos de datos y reportería.",
+            "aspectosDestacados": [
+              "Diseño e implementación de procesos ETL.",
+              "Optimización de consultas SQL y procedimientos almacenados."
+            ]
+          }
+        ]
+      },
+      {
+        "anio": "2023-2021",
+        "proyectos": [
+          {
+            "nombre": "Integración con Sistemas Legacy",
+            "resumen": "Modernización e integración con plataformas legacy.",
+            "aspectosDestacados": [
+              "Desarrollo de servicios SOAP y REST.",
+              "Implementación de API Gateways.",
+              "Aplicación de idempotencia y control de transacciones."
+            ]
+          },
+          {
+            "nombre": "Procesamiento Financiero y Transaccional",
+            "resumen": "Implementación de lógica de negocio para procesamiento de pagos y transacciones.",
+            "aspectosDestacados": [
+              "Integración con ISO 8583 y sistemas financieros.",
+              "Procesamiento de transacciones en tiempo real."
+            ]
+          },
+          {
+            "nombre": "Automatización y Reporterí­a",
+            "resumen": "Automatización de procesos y generación de reportes.",
+            "aspectosDestacados": [
+              "Implementación de procesos batch y ETL.",
+              "Generación de reportes PDF y sistemas de notificación."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

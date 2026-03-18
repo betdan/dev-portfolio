@@ -1,0 +1,236 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Daniel Betancourt — Senior Software Engineer (Java/.NET). Developer OS-style portfolio with skills, experience, and projects in English and Spanish.">
+  <meta name="author" content="Daniel Betancourt">
+  <meta name="robots" content="index,follow">
+  <meta name="theme-color" content="#f6f8fa">
+  <title>Daniel Betancourt | Senior Developer</title>
+  <link rel="icon" href="./assets/icons/favicon.svg" type="image/svg+xml">
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Daniel Betancourt",
+      "jobTitle": "Senior Software Engineer",
+      "email": "mailto:danbet@gmail.com",
+      "telephone": "+506 8719 9069",
+      "sameAs": [
+        "https://www.linkedin.com/in/danielbetancourt-21155792"
+      ],
+      "knowsAbout": [
+        "C#",
+        ".NET",
+        "Java",
+        "REST",
+        "SOAP",
+        "gRPC",
+        "RabbitMQ (AMQP)",
+        "WebSockets",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "SQL Server",
+        "Oracle",
+        "Microservices"
+      ]
+    }
+  </script>
+  <link rel="stylesheet" href="./css/theme.css">
+  <link rel="stylesheet" href="./css/main.css">
+  <link rel="stylesheet" href="./css/terminal.css">
+</head>
+<body data-app-ready="false">
+  <div id="boot-screen" class="boot-screen" aria-hidden="true">
+    <div class="boot-screen__grid"></div>
+    <div class="boot-screen__halo"></div>
+    <div class="boot-screen__panel">
+      <div class="boot-screen__eyebrow">DEV-PORTFOLIO//RUNTIME</div>
+      <div class="boot-screen__title">DANIEL BETANCOURT</div>
+      <div class="boot-screen__subtitle">Interactive portfolio shell initializing...</div>
+
+      <div class="boot-screen__meter">
+        <div id="boot-progress-bar" class="boot-screen__meter-fill"></div>
+      </div>
+
+      <div class="boot-screen__meta">
+        <span id="boot-progress-label">11%</span>
+        <span id="boot-stage-label">Mapping interface modules</span>
+      </div>
+
+      <div class="boot-screen__matrix" aria-hidden="true">
+        <span>fs.mount("/workspace")</span>
+        <span>i18n.sync(locale)</span>
+        <span>search.index(portfolioData)</span>
+        <span>terminal.attach(prompt)</span>
+        <span>ui.compose(shell)</span>
+        <span>runtime.ready(signal)</span>
+      </div>
+
+      <div class="boot-screen__pulse">
+        <span class="boot-screen__pulse-dot"></span>
+        <span>Live diagnostics stream active</span>
+      </div>
+    </div>
+  </div>
+
+  <a class="skip-link" href="#terminal-input">Skip to terminal input</a>
+
+  <header class="app-header" role="banner">
+    <div class="header-title">
+      <h1>Developer OS Portfolio</h1>
+      <p>Senior Software Engineer | Java &amp; .NET | APIs (REST / SOAP)</p>
+    </div>
+
+    <div class="header-actions" aria-label="Header actions">
+      <button id="seo-header-btn" class="seo-header-btn" type="button" aria-label="About" aria-expanded="false" title="About">
+        <span class="sr-only">About</span>
+        <svg viewBox="0 0 24 24" width="18" height="18" focusable="false" aria-hidden="true">
+          <path fill="currentColor" d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4Zm0 2c-3.33 0-8 1.67-8 5v1h16v-1c0-3.33-4.67-5-8-5Z"/>
+        </svg>
+      </button>
+
+      <button id="lang-toggle" class="lang-toggle" type="button" aria-label="Toggle language">
+        EN
+      </button>
+
+      <button id="theme-toggle" class="theme-toggle" type="button" aria-pressed="false" aria-label="Toggle theme">
+        <span class="sr-only">Toggle theme</span>
+
+        <svg class="theme-icon theme-icon-sun" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true">
+          <path fill="currentColor" d="M12 18.5a6.5 6.5 0 1 1 0-13a6.5 6.5 0 0 1 0 13Zm0-2a4.5 4.5 0 1 0 0-9a4.5 4.5 0 0 0 0 9ZM11 1h2v3h-2V1Zm0 20h2v3h-2v-3ZM1 11h3v2H1v-2Zm19 0h3v2h-3v-2ZM3.22 4.64l1.42-1.42l2.12 2.12l-1.42 1.42L3.22 4.64Zm14.02 14.02l1.42-1.42l2.12 2.12l-1.42 1.42l-2.12-2.12ZM19.36 3.22l1.42 1.42l-2.12 2.12l-1.42-1.42l2.12-2.12ZM4.64 20.78l-1.42-1.42l2.12-2.12l1.42 1.42l-2.12 2.12Z"/>
+        </svg>
+        <svg class="theme-icon theme-icon-moon" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true">
+          <path fill="currentColor" d="M21 14.5A8.5 8.5 0 0 1 9.5 3a7.2 7.2 0 0 0 9.3 9.3A8.45 8.45 0 0 1 21 14.5ZM12 20a6.5 6.5 0 0 0 6.17-4.43A9.2 9.2 0 0 1 8.43 5.83A6.5 6.5 0 0 0 12 20Z"/>
+        </svg>
+      </button>
+    </div>
+  </header>
+
+  <div id="seo-panel-backdrop" class="seo-panel-backdrop" hidden>
+    <section
+      id="seo-panel"
+      class="seo-panel"
+      role="dialog"
+      aria-modal="true"
+      aria-label="Portfolio summary">
+      <header class="seo-panel-header">
+        <div class="seo-panel-title">
+          <span class="seo-panel-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" width="18" height="18" focusable="false" aria-hidden="true">
+              <path fill="currentColor" d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4Zm0 2c-3.33 0-8 1.67-8 5v1h16v-1c0-3.33-4.67-5-8-5Z"/>
+            </svg>
+          </span>
+          <span id="seo-details-title">About</span>
+        </div>
+
+        <button id="seo-panel-close" class="seo-panel-close" type="button" aria-label="Close" title="Close">
+          <span class="sr-only">Close</span>
+          <svg viewBox="0 0 24 24" width="18" height="18" focusable="false" aria-hidden="true">
+            <path fill="currentColor" d="M18.3 5.71 12 12l6.3 6.29-1.41 1.42L10.59 13.4 4.29 19.71 2.88 18.29 9.17 12 2.88 5.71 4.29 4.29 10.59 10.6l6.3-6.31z"/>
+          </svg>
+        </button>
+      </header>
+
+      <div class="seo-panel-body">
+        <p id="seo-details-summary">
+          Senior software engineer focused on scalable backend systems, distributed APIs, and cloud-native services (.NET/Java).
+        </p>
+
+        <div class="seo-contact" aria-label="Contact">
+          <div class="seo-contact-title" id="seo-contact-title">Contact</div>
+          <ul class="seo-links">
+            <li>
+              <a class="seo-link" href="mailto:danbet@gmail.com">
+                <span class="seo-link-icon" aria-hidden="true">
+                  <svg viewBox="0 0 24 24" width="18" height="18" focusable="false" aria-hidden="true">
+                    <path fill="currentColor" d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2Zm0 4-8 5L4 8V6l8 5 8-5v2Z"/>
+                  </svg>
+                </span>
+                <span id="seo-email-label">Email</span>: <span class="seo-link-value">danbet@gmail.com</span>
+              </a>
+            </li>
+            <li>
+              <a class="seo-link" href="https://www.linkedin.com/in/danielbetancourt-21155792" rel="me">
+                <span class="seo-link-icon" aria-hidden="true">
+                  <svg viewBox="0 0 24 24" width="18" height="18" focusable="false" aria-hidden="true">
+                    <path fill="currentColor" d="M4.98 3.5C4.98 4.88 3.87 6 2.5 6S0 4.88 0 3.5 1.12 1 2.5 1s2.48 1.12 2.48 2.5ZM0.5 23.5h4V7.98h-4V23.5ZM8.5 7.98h3.83v2.12h.05c.53-1 1.82-2.06 3.75-2.06 4.01 0 4.75 2.64 4.75 6.08v9.38h-4v-8.31c0-1.98-.04-4.53-2.76-4.53-2.76 0-3.18 2.16-3.18 4.39v8.45h-4V7.98Z"/>
+                  </svg>
+                </span>
+                <span id="seo-linkedin-label">LinkedIn</span>: <span class="seo-link-value">danielbetancourt-21155792</span>
+              </a>
+            </li>
+          </ul>
+        </div>
+
+        <p id="seo-site-summary" class="seo-site-summary">
+          In summary: a bilingual static technical portfolio, built with vanilla JavaScript, with a terminal/IDE-style UX to present experience, projects, and skills in a more engaging way than a traditional resume.
+        </p>
+
+        <p id="seo-site-rights" class="seo-site-rights">
+          Copyright <span id="seo-site-rights-year">2026</span>. All rights reserved.
+        </p>
+      </div>
+    </section>
+  </div>
+
+  <noscript>
+    <p class="noscript-note">This site works best with JavaScript enabled (the workstation UI is interactive).</p>
+  </noscript>
+
+  <main class="os-shell" role="main" aria-label="Developer workstation interface">
+    <section class="workspace-pane" aria-label="Workspace">
+      <aside id="file-explorer" class="panel explorer-panel" aria-labelledby="explorer-title">
+        <header class="panel-header">
+          <h2 id="explorer-title">Explorer</h2>
+        </header>
+        <nav class="panel-body" aria-label="Project files">
+          <ul id="explorer-tree">
+            <li>workspace/</li>
+          </ul>
+        </nav>
+      </aside>
+
+      <section id="code-editor" class="panel editor-panel" aria-labelledby="editor-title">
+        <header class="panel-header">
+          <h2 id="editor-title">Editor</h2>
+          <p id="active-file-label" aria-live="polite">No file selected</p>
+        </header>
+        <article class="panel-body">
+          <pre id="editor-content"><code>// Open a file from explorer or terminal.</code></pre>
+        </article>
+      </section>
+    </section>
+
+    <section id="terminal" class="panel terminal-panel" aria-labelledby="terminal-title">
+      <header class="panel-header">
+        <h2 id="terminal-title">Terminal</h2>
+      </header>
+      <div class="panel-body">
+        <form id="terminal-form" autocomplete="off">
+          <label for="terminal-input" class="terminal-prompt">dev@portfolio:~$</label>
+          <input
+            id="terminal-input"
+            name="terminal-input"
+            type="text"
+            spellcheck="false"
+            autocorrect="off"
+            autocapitalize="off"
+            aria-label="Terminal command input">
+        </form>
+        <div id="terminal-output" role="log" aria-live="polite" aria-atomic="false"></div>
+      </div>
+    </section>
+  </main>
+
+
+  <nav class="mobile-bar" aria-label="Panel switcher">
+    <button type="button" class="mobile-bar-btn" data-view="workspace" aria-pressed="true">Workspace</button>
+    <button type="button" class="mobile-bar-btn" data-view="terminal" aria-pressed="false">Terminal</button>
+  </nav>
+
+  <script type="module" src="./js/app.js"></script>
+</body>
+</html>

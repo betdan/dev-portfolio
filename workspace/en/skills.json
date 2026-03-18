@@ -1,0 +1,103 @@
+{
+  "programming_languages": [
+    "C#",
+    "Java",
+    "Python",
+    "TypeScript",
+    "HTML",
+    "CSS"
+  ],
+  "frameworks": {
+    "backend": [
+      ".NET",
+      "ASP.NET Core",
+      "Quarkus"
+    ],
+    "frontend": [
+      "Angular"
+    ]
+  },
+  "java_ecosystem": {
+    "build_tools": [
+      "Maven",
+      "Gradle"
+    ],
+    "frameworks": [
+      "Quarkus",
+      "ZK Framework"
+    ]
+  },
+  "enterprise_integration": [
+    "IBM Integration Toolkit",
+    "IBM DataPower Gateway"
+  ],
+  "cloud": [
+    "AWS"
+  ],
+  "version_control": [
+    "Git",
+    "GitHub",
+    "Azure DevOps",
+    "Team Foundation Server (TFS)",
+    "Harvest"
+  ],
+  "ci_cd": [
+    "Azure DevOps Pipelines",
+    "GitHub Actions"
+  ],
+  "code_quality": [
+    "SonarQube"
+  ],
+  "project_management": [
+    "Jira",
+    "Azure DevOps Boards",
+    "Zoho BugTracker"
+  ],
+  "databases": {
+    "relational": [
+      "SQL Server",
+      "Oracle",
+      "PostgreSQL",
+      "Sybase"
+    ],
+    "non_relational": [
+      "MongoDB",
+      "Redis"
+    ]
+  },
+  "messaging_and_events": [
+    "RabbitMQ",
+    "AMQP",
+    "Event-Driven Architecture"
+  ],
+  "architecture_and_design": [
+    "Microservices | Microfrontend",
+    "Distributed Systems",
+    "API Design (REST, SOAP, gRPC)",
+    "Enterprise Systems Integration",
+    "Event-Driven Architecture"
+  ],
+  "devops_and_infrastructure": [
+    "Docker",
+    "Kubernetes",
+    "Helm"
+  ],
+  "observability_and_monitoring": [
+    "Seq",
+    "CloudWatch"
+  ],
+  "security": [
+    "JWT",
+    "OAuth2",
+    "AES Encryption",
+    "Secure API Design"
+  ],
+  "development_practices": [
+    "Object-Oriented Programming (OOP)",
+    "SOLID Principles",
+    "Clean Architecture",
+    "CI/CD",
+    "Code Review",
+    "Agile Development"
+  ]
+}

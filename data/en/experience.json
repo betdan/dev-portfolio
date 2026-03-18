@@ -1,0 +1,44 @@
+[
+  {
+    "period": "Feb 2025 - Present",
+    "role": "Senior Software Engineer",
+    "company": "Independent Consultant",
+    "location": "Remote",
+    "highlights": [
+      "Backend development: .NET, Java",
+      "API design & integration: REST, SOAP",
+      "Distributed systems & microservices",
+      "Messaging & event-driven architecture (AMQP / RabbitMQ)",
+      "Containerization: Docker, Kubernetes",
+      "Databases: SQL & NoSQL",
+      "System integration & technical consulting"
+    ]
+  },
+  {
+    "period": "Feb 2017 - May 2025",
+    "role": "Senior Software Engineer",
+    "company": "TechnoPartners"
+  },
+  {
+    "period": "Feb 2015 - Jan 2017",
+    "role": "Consultant Engineer",
+    "company": "BCG - Business Computer Group",
+    "location": "Caracas, Venezuela",
+    "highlights": [
+      "Supported Prevention & Compliance / Anti-Fraud using SWIFT Alliance",
+      "Designed and developed Java enterprise applications with SQL Server and Oracle",
+      "Administered Windows Server 2012 environments",
+      "Managed SQL Server 2012 databases (administration, monitoring, performance support)"
+    ]
+  },
+  {
+    "period": "Jul 2009 - Jan 2017",
+    "role": "Senior Technical Developer",
+    "company": "Bancaribe"
+  },
+  {
+    "period": "Jun 2007 - Jun 2009",
+    "role": "Junior Software Engineer",
+    "company": "Bancaribe"
+  }
+]

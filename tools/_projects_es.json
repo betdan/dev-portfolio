@@ -1,0 +1,499 @@
+[
+  {
+    "year": 2026,
+    "name": "App Móvil (Versiones 3.2, 3.5 y 3.6)",
+    "summary": "Desarrollo y revisión de servicios para transferencias locales, internacionales y sin preinscripción.",
+    "highlights": [
+      "Desarrollo y revisión de servicios para transferencias locales, internacionales y sin preinscripción.",
+      "Implementación de servicios de seguridad, incluyendo autenticación biométrica y autogestión de claves.",
+      "Análisis y diseño técnico para servicios de Certificados de Inversión (CDP) y Posición Consolidada.",
+      "Ajuste y mantenimiento de procesos ETL para la bitácora de servicios y aplicaciones.",
+      "Coordinación de pases a ambientes de UAT y postproducción."
+    ]
+  },
+  {
+    "year": 2026,
+    "name": "Express Digital",
+    "summary": "Verificación y actualización del servicio KYC (Know Your Customer) para la plataforma.",
+    "highlights": [
+      "Verificación y actualización del servicio KYC (Know Your Customer) para la plataforma.",
+      "Desarrollo de funcionalidades para la vinculación digital de nuevos clientes."
+    ]
+  },
+  {
+    "year": 2026,
+    "name": "Auditoría de Tramas",
+    "summary": "Desarrollo de servicios especializados para la migración de colas de mensajería MQ.",
+    "highlights": [
+      "Desarrollo de servicios especializados para la migración de colas de mensajería MQ."
+    ]
+  },
+  {
+    "year": 2026,
+    "name": "Consulta Padrón Cliente",
+    "summary": "Soporte técnico y modificaciones estructurales al servicio de consulta de padrón institucional.",
+    "highlights": [
+      "Soporte técnico y modificaciones estructurales al servicio de consulta de padrón institucional."
+    ]
+  },
+  {
+    "year": 2026,
+    "name": "Retiro ATM sin Tarjeta",
+    "summary": "Gestión y soporte técnico para los servicios de generación y reverso de solicitudes de retiro en cajeros automáticos sin tarjeta física.",
+    "highlights": [
+      "Gestión y soporte técnico para los servicios de generación y reverso de solicitudes de retiro en cajeros automáticos sin tarjeta física.",
+      "Desarrollo y pruebas de servicios para generación y reverso de solicitudes de retiro en cajeros sin tarjeta física.",
+      "Sincronización de estados y validación de fechas de expiración en reportes administrativos."
+    ]
+  },
+  {
+    "year": 2026,
+    "name": "SUPERAPP (Adhesión Usuario)",
+    "summary": "Escenario MBAAS para adhesión de usuarios a canales BEL y SAPP.",
+    "highlights": [
+      "Escenario MBAAS para adhesión de usuarios a canales BEL y SAPP.",
+      "Ejecución y validación de servicios técnicos como RT088 (CreaUsuarioCanalWeb).",
+      "Gestión de componentes JBoss y archivos WAR para servicios eBanking."
+    ]
+  },
+  {
+    "year": 2026,
+    "name": "Internal.App.Worker.SetPopUp",
+    "summary": "Refactorización integral para eliminar deuda técnica y alinear la arquitectura por capas.",
+    "highlights": [
+      "Refactorización integral para eliminar deuda técnica y alinear la arquitectura por capas.",
+      "Implementación de worker desacoplado con integración a AWS SQS, SNS y persistencia en Postgres.",
+      "Configuración de monitoreo con App.Metrics, Serilog y Health Checks para estado operativo.",
+      "Limpieza de dependencias no utilizadas como Hangfire y MassTransit."
+    ]
+  },
+  {
+    "year": 2026,
+    "name": "Whitelist (MBAAS/SAPP)",
+    "summary": "Certificación de mensajes de error para estados críticos de clientes (Listas Restrictivas, Inactivo, Bloqueado).",
+    "highlights": [
+      "Certificación de mensajes de error para estados críticos de clientes (Listas Restrictivas, Inactivo, Bloqueado).",
+      "Ajustes técnicos en el servicio QryDataProductsCustomer para homologar códigos de error.",
+      "Desarrollo de reportería en Belandria y TADMIN para consulta de productos móviles."
+    ]
+  },
+  {
+    "year": 2026,
+    "name": "Payment Loan (LOA)",
+    "summary": "Desarrollo de Web APIs (QueryPaymentLoan y PaymentLoan) para consulta y procesamiento de pagos de préstamos.",
+    "highlights": [
+      "Desarrollo de Web APIs (QueryPaymentLoan y PaymentLoan) para consulta y procesamiento de pagos de préstamos.",
+      "Implementación del worker SchedulerPaymentLoan para automatización de tareas recurrentes y notificaciones."
+    ]
+  },
+  {
+    "year": 2026,
+    "name": "Belandria (Administración de Catálogos)",
+    "summary": "Inclusión de nuevos códigos de \"White List\" en el catálogo de causas de adelanto de efectivo según operación.",
+    "highlights": [
+      "Inclusión de nuevos códigos de \"White List\" en el catálogo de causas de adelanto de efectivo según operación.",
+      "Definición de ambientes y pasos de configuración para la inclusión de registros en el sistema."
+    ]
+  },
+  {
+    "year": 2026,
+    "name": "Optimización de Autenticación Sybase",
+    "summary": "Análisis técnico y mejora de rendimiento del procedimiento sp_int_ebk_autenticar.",
+    "highlights": [
+      "Análisis técnico y mejora de rendimiento del procedimiento sp_int_ebk_autenticar.",
+      "Consolidación de lecturas a tablas de parámetros y optimización de filtros por fecha para aprovechar índices."
+    ]
+  },
+  {
+    "year": 2026,
+    "name": "Pago Automático (Cartera)",
+    "summary": "Automatización de procesos de pago del día en cob_cartera con esquemas de reintento controlado.",
+    "highlights": [
+      "Automatización de procesos de pago del día en cob_cartera con esquemas de reintento controlado.",
+      "Actualización de bitácoras y gestión de estados de procesamiento (PENDIENTE, EN PROCESO, REPROCESO)."
+    ]
+  },
+  {
+    "year": 2026,
+    "name": "Integración Evertec",
+    "summary": "Mapeo de funcionalidades y tramas ISO/MQ para comunicación con el procesador de tarjetas (Consultas, Pagos, Adelantos).",
+    "highlights": [
+      "Mapeo de funcionalidades y tramas ISO/MQ para comunicación con el procesador de tarjetas (Consultas, Pagos, Adelantos)."
+    ]
+  },
+  {
+    "year": 2025,
+    "name": "SuperAPP",
+    "summary": "Implementación de servicios de generación de OTP y envío de SMS.",
+    "highlights": [
+      "Implementación de servicios de generación de OTP y envío de SMS.",
+      "Despliegue de Web APIs en servidores IIS para la gestión de flujos de trabajo (WorkFlow Management).",
+      "Ajuste estético y funcional de estados de cuenta utilizando tecnologías .NET 8 y Kubernetes."
+    ]
+  },
+  {
+    "year": 2025,
+    "name": "WhiteList MBaaS",
+    "summary": "Desarrollo de lógica para priorización de atención según subsegmentos del core bancario (Plus, Premium, etc.).",
+    "highlights": [
+      "Desarrollo de lógica para priorización de atención según subsegmentos del core bancario (Plus, Premium, etc.).",
+      "Creación de tablas dinámicas y procedimientos para la evaluación de créditos móviles.",
+      "Implementación de servicios de consulta de costos de transacción y productos del cliente."
+    ]
+  },
+  {
+    "year": 2025,
+    "name": "Incidente Crédito Móvil (GD-25736 / GD-21164)",
+    "summary": "Análisis y corrección de créditos aprobados pero rechazados en el sistema ULTIMUS.",
+    "highlights": [
+      "Análisis y corrección de créditos aprobados pero rechazados en el sistema ULTIMUS.",
+      "Reutilización y ajuste de componentes del Evaluador de Crédito en el entorno de Sybase 12.5."
+    ]
+  },
+  {
+    "year": 2025,
+    "name": "Carga Masiva H2H (GD-21783)",
+    "summary": "Despliegue de servicios en Datapower y WAS para la carga masiva de transacciones Host-to-Host.",
+    "highlights": [
+      "Despliegue de servicios en Datapower y WAS para la carga masiva de transacciones Host-to-Host.",
+      "Actualización de URLs críticas para la comunicación con canales externos."
+    ]
+  },
+  {
+    "year": 2025,
+    "name": "Modificación IVR (IT.209235)",
+    "summary": "Ajustes en el servicio Api GetCustomerData para validación de clientes en líneas premium.",
+    "highlights": [
+      "Ajustes en el servicio Api GetCustomerData para validación de clientes en líneas premium.",
+      "Asignación de prioridades de atención telefónica basadas en el perfil de riesgo y segmento."
+    ]
+  },
+  {
+    "year": 2025,
+    "name": "Worker StatusConfirmation (Kubernetes)",
+    "summary": "Configuración y despliegue de servicios Worker bajo la arquitectura de contenedores Kubernetes.",
+    "highlights": [
+      "Configuración y despliegue de servicios Worker bajo la arquitectura de contenedores Kubernetes.",
+      "Gestión de imágenes Docker y despliegues automatizados mediante Helm y Kubectl."
+    ]
+  },
+  {
+    "year": 2025,
+    "name": "Crypto.Api",
+    "summary": "Desarrollo de servicios de infraestructura para el manejo de certificados y seguridad criptográfica.",
+    "highlights": [
+      "Desarrollo de servicios de infraestructura para el manejo de certificados y seguridad criptográfica.",
+      "Implementación de lógica de negocio desacoplada utilizando .NET 8."
+    ]
+  },
+  {
+    "year": 2024,
+    "name": "Migración Mensajes SWIFT",
+    "summary": "Generación de servicios API Rest bajo arquitectura K8s para interacción con datos del Core.",
+    "highlights": [
+      "Generación de servicios API Rest bajo arquitectura K8s para interacción con datos del Core.",
+      "Desarrollo backend con SQL Server 2019, Sybase 12.5 y procesos de transformación XSLT.",
+      "Implementación de patrones de arquitectura para APIs externas, internas de integración y de canal."
+    ]
+  },
+  {
+    "year": 2024,
+    "name": "Pago Tarjetas de Crédito (Módulo Cajas)",
+    "summary": "Integración de pagos de tarjetas mediante servicios API Rest de EVERTEC desde el módulo COBIS CAJAS.",
+    "highlights": [
+      "Integración de pagos de tarjetas mediante servicios API Rest de EVERTEC desde el módulo COBIS CAJAS.",
+      "Exposición de nuevos servicios en K8s y DataPower para procesamiento de pagos y movimientos.",
+      "Ajuste de la lógica del flujo BROKER para distribuir pagos mediante tramas MQ o API Rest según parámetros.",
+      "Configuración de persistencia en Sybase 12.5 y PostgreSQL."
+    ]
+  },
+  {
+    "year": 2024,
+    "name": "Gestión Movimientos no Reconocidos (APP MÓVIL)",
+    "summary": "Implementación de estado BORRADOR para gestiones adjuntas hasta la confirmación final del cliente.",
+    "highlights": [
+      "Implementación de estado BORRADOR para gestiones adjuntas hasta la confirmación final del cliente.",
+      "Creación de la tabla de catálogo gesGestionBorrador en la base de datos de Flujos.",
+      "Ajuste de procedimientos almacenados (sp_int_insGesSolicitud y sp_int_updGesSolicitud) para control de estados.",
+      "Validación de servicios WAS ebankingWS para el manejo de adjuntos y reportes."
+    ]
+  },
+  {
+    "year": 2024,
+    "name": "Administrador de Banca Virtual (AdminBV)",
+    "summary": "Optimización del proceso de generación de contratos físicos para garantizar la impresión de folletos y seguros.",
+    "highlights": [
+      "Optimización del proceso de generación de contratos físicos para garantizar la impresión de folletos y seguros.",
+      "Creación de código de tiempo de espera (TIMEGEN) en el catálogo de contratos para asegurar la construcción del archivo.",
+      "Modificación de formularios Visual Basic 6.0 y clases de transformación de BASE64 a físico."
+    ]
+  },
+  {
+    "year": 2024,
+    "name": "Incidente Sinpe Móvil Empresarial",
+    "summary": "Modificación del servicio NotificaCruxPMB para procesar mensajes de error detallados del API de Crux.",
+    "highlights": [
+      "Modificación del servicio NotificaCruxPMB para procesar mensajes de error detallados del API de Crux.",
+      "Actualización de componentes backend utilizando Transact-SQL y C#."
+    ]
+  },
+  {
+    "year": 2024,
+    "name": "Ajuste ETL Estados de Cuenta (Ley de Usura)",
+    "summary": "Modificación de procesos ETL (DataTransfer) para incluir campos de tasas de la Ley de Usura en reportes de clientes.",
+    "highlights": [
+      "Modificación de procesos ETL (DataTransfer) para incluir campos de tasas de la Ley de Usura en reportes de clientes.",
+      "Mapeo de nuevos campos en tablas de movimientos y extrafinanciamientos en SQL Server 2008 y 2012.",
+      "Ajuste del proceso de recuperación (Recovery) para regeneración de estados de cuenta históricos."
+    ]
+  },
+  {
+    "year": 2024,
+    "name": "SuperAPP (Infraestructura IIS)",
+    "summary": "Despliegue de servicios Web API (SetWorkFlowManagement, UpdWorkFlowManagement) en servidores IIS.",
+    "highlights": [
+      "Despliegue de servicios Web API (SetWorkFlowManagement, UpdWorkFlowManagement) en servidores IIS.",
+      "Configuración de encabezados HTTP para trazabilidad de transacciones y sesiones (UUID)."
+    ]
+  },
+  {
+    "year": 2023,
+    "name": "Sinpe Móvil Link de Cobros",
+    "summary": "Generación de Web APIs externas e internas para parametrización de comisiones y pago de servicios.",
+    "highlights": [
+      "Generación de Web APIs externas e internas para parametrización de comisiones y pago de servicios.",
+      "Configuración de servicios en Datapower MPG para exposición al proveedor Crux Consultores.",
+      "Implementación de caché con REDIS y tareas en segundo plano mediante Hangfire/Masstransit.",
+      "Desarrollo de procesos de DB internos (SPs) para consulta de valores pendientes y gestión de reportes en Belandria."
+    ]
+  },
+  {
+    "year": 2023,
+    "name": "APP MÓVIL v4.6.0 (Compras Intrafinanciadas)",
+    "summary": "Adaptación de servicios regionales de Banca en Línea para el canal móvil, incluyendo términos y condiciones.",
+    "highlights": [
+      "Adaptación de servicios regionales de Banca en Línea para el canal móvil, incluyendo términos y condiciones.",
+      "Creación de IDs de servicio específicos (CNMOCOIFTC, CNCSCOIFTC) para trazabilidad en bitácoras de APP.",
+      "Ajuste de procedimientos almacenados en Sybase 12.5 para soporte de formatos de fecha específicos de la aplicación.",
+      "Implementación de lógica para la consulta de costos de transacciones y movimientos a financiar."
+    ]
+  },
+  {
+    "year": 2023,
+    "name": "APP Móvil v4.7.0 / 4.8.0 (Detalle Movimientos)",
+    "summary": "Inclusión de movimientos flotantes de tarjetas de crédito en las consultas de detalle del APP.",
+    "highlights": [
+      "Inclusión de movimientos flotantes de tarjetas de crédito en las consultas de detalle del APP.",
+      "Integración con tramas MQ (0110 y 0800) de Evertec para la obtención de saldos flotantes en tiempo real.",
+      "Mapeo de nuevos tags XML para límites de crédito (valLimiteTC) y estados de movimientos especiales.",
+      "Reutilización de componentes de backend y esquemas de comunicación regional para optimización de recursos."
+    ]
+  },
+  {
+    "year": 2023,
+    "name": "Proyecto SWIFT GPI",
+    "summary": "Optimización de procesos CORE (SPs) para reducir tiempos de respuesta en consultas de transferencias internacionales.",
+    "highlights": [
+      "Optimización de procesos CORE (SPs) para reducir tiempos de respuesta en consultas de transferencias internacionales.",
+      "Desarrollo del tracker \"Status Confirmation\" para reportar estados de acreditación inmediata (ACSP/ACCC) a SWIFT.",
+      "Implementación de servicios en DataPower (WSP_VerificaCuentaBeneficiario_REG) para validar cuentas destino mediante APIs regionales.",
+      "Despliegue de servicios Worker bajo arquitectura de contenedores Kubernetes para procesamiento de mensajes."
+    ]
+  },
+  {
+    "year": 2022,
+    "name": "Proyecto SWIFT GPI (Fase 2)",
+    "summary": "Desarrollo de la interfaz de conexión entre el CORE Sybase 12.5 y el Gateway de Integración Swift CAM.",
+    "highlights": [
+      "Desarrollo de la interfaz de conexión entre el CORE Sybase 12.5 y el Gateway de Integración Swift CAM.",
+      "Implementación del servicio \"Status Confirmation\" en DataPower para actualizar estados de transferencias internacionales en el tracker.",
+      "Creación de procesos ETL (CambiosEstadosSWIFT.ispac) y procedimientos para la actualización automática de estados al API de GPI SWIFT.",
+      "Configuración de reglas Multi Protocol Gateway (MPGW) para comunicación con el DataPower regional de Colombia.",
+      "Despliegue de servicios Worker mediante contenedores Docker y orquestación con Kubernetes (Helm/K8s)."
+    ]
+  },
+  {
+    "year": 2022,
+    "name": "Movimientos No Reconocidos (Contracargo) - APP Móvil v4.3.0",
+    "summary": "Modificación del procedimiento de consulta de movimientos (sp_bv_app_cons_movimientos) para identificar transacciones aptas para contracargo.",
+    "highlights": [
+      "Modificación del procedimiento de consulta de movimientos (sp_bv_app_cons_movimientos) para identificar transacciones aptas para contracargo.",
+      "Generación de nuevos servicios Broker y WAS para la consulta de condiciones y reporte de movimientos no reconocidos.",
+      "Integración con el sistema Workflow para la creación automática de gestiones y carga de documentos adjuntos.",
+      "Impacto en componentes Java (eBankingWS) para el envío de datos de clientes y motivos de reclamo a la plataforma de gestión."
+    ]
+  },
+  {
+    "year": 2022,
+    "name": "Código Agente Vendedor / CDP - APP Móvil v4.5.0",
+    "summary": "Inclusión del campo \"Agente Vendedor\" en los servicios de apertura y renovación de Certificados de Depósito a Plazo (CDP).",
+    "highlights": [
+      "Inclusión del campo \"Agente Vendedor\" en los servicios de apertura y renovación de Certificados de Depósito a Plazo (CDP).",
+      "Creación de estructuras de base de datos (pf_operacion_adicional) para el almacenamiento persistente del código de agente y canal de venta.",
+      "Ajuste del proceso Batch de reportería mensual (reporte mbalance01) para incluir la trazabilidad del oficial y el canal (Web/App).",
+      "Modificación de la lógica del backend en Sybase para validar la existencia del código de agente contra los registros de oficiales de COBIS."
+    ]
+  },
+  {
+    "year": 2022,
+    "name": "Ajustes y Gestión de Incidentes Workflow",
+    "summary": "Optimización de las pantallas de gestión para visualizar el nombre completo del cliente y el motivo detallado de bloqueo de tarjetas.",
+    "highlights": [
+      "Optimización de las pantallas de gestión para visualizar el nombre completo del cliente y el motivo detallado de bloqueo de tarjetas.",
+      "Modificación del servicio AdjuntoDocumentosWorkflow para corregir la asignación de responsables según el ID de gestión.",
+      "Implementación de notificaciones asíncronas vía Email o SMS al cliente tras el reporte de movimientos no reconocidos o bloqueos.",
+      "Generación de archivos TXT detallados con información de tarjetas y contracargos para el centro de atención (CAC)."
+    ]
+  },
+  {
+    "year": 2021,
+    "name": "ATM Depositarios - Fase 1",
+    "summary": "Implementación de depósitos en efectivo a cuentas Davivienda CR sin requerir autenticación previa con tarjeta.",
+    "highlights": [
+      "Implementación de depósitos en efectivo a cuentas Davivienda CR sin requerir autenticación previa con tarjeta.",
+      "Desarrollo de la funcionalidad de pago de tarjetas de crédito en efectivo sin autenticación.",
+      "Creación del procedimiento sp_atm_tran_0200E para procesar tramas 0200 y el Token R2 provenientes de Evertec.",
+      "Configuración de un BIN ficticio (111111) para identificar transacciones sin tarjeta en el host."
+    ]
+  },
+  {
+    "year": 2021,
+    "name": "ATM Depositarios - Fase 2",
+    "summary": "Implementación de depósitos y pagos de tarjetas de crédito en efectivo con autenticación mediante tarjeta de débito o crédito.",
+    "highlights": [
+      "Implementación de depósitos y pagos de tarjetas de crédito en efectivo con autenticación mediante tarjeta de débito o crédito.",
+      "Integración de pagos de préstamos en efectivo con y sin autenticación de tarjeta.",
+      "Despliegue de procedimientos especializados para la lógica de negocio: sp_atm_deposito, sp_atm_pago_tdc y sp_atm_limite_efectivo.",
+      "Configuración de límites transaccionales diferenciados por segmento de cliente (Banca Personas vs. Empresas) y moneda."
+    ]
+  },
+  {
+    "year": 2021,
+    "name": "Liquidación y Contabilidad ATM (Conciliación)",
+    "summary": "Ajuste del proceso batch tm_reporte_contabilidad.sqr para consolidar las nuevas transacciones en el cierre diario de CAMS.",
+    "highlights": [
+      "Ajuste del proceso batch tm_reporte_contabilidad.sqr para consolidar las nuevas transacciones en el cierre diario de CAMS.",
+      "Definición de reglas contables para depósitos con conversión de moneda (USD/CRC) utilizando la causa 740.",
+      "Actualización de la estructura del archivo TLF BANT para reflejar los nuevos códigos de transacción (ej. código 20 para depósitos y pagos).",
+      "Generación de alertas para Cumplimiento sobre transacciones individuales superiores a $5,000 o múltiples sobre $10,000."
+    ]
+  },
+  {
+    "year": 2021,
+    "name": "Infraestructura y Conectividad (Autorizador)",
+    "summary": "Configuración del servicio Autorizador para apuntar a diferentes CORE Sybase 12.5 según el ambiente (A2 Integración, A5 UAT o Producción).",
+    "highlights": [
+      "Configuración del servicio Autorizador para apuntar a diferentes CORE Sybase 12.5 según el ambiente (A2 Integración, A5 UAT o Producción).",
+      "Mantenimiento de los parámetros del archivo online_parameters.ini para la gestión de usuarios (atmuser) y servidores de BD.",
+      "Normalización de permisos y accesos para el usuario de sistema atmuser en múltiples bases de datos de COBIS."
+    ]
+  },
+  {
+    "year": 2021,
+    "name": "Implementación Sistema de Leasing (FinanceOne)",
+    "summary": "Acoplamiento del nuevo sistema como SaaS en la nube Azure para sustituir al sistema actual Orcase.",
+    "highlights": [
+      "Acoplamiento del nuevo sistema como SaaS en la nube Azure para sustituir al sistema actual Orcase.",
+      "Migración de todas las interfaces de canales virtuales y backoffice a la nueva plataforma sin afectación al cliente.",
+      "Planificación y ejecución de un piloto operativo con 5 clientes seleccionados para validar la estabilidad del sistema.",
+      "Coordinación de cierres de certificación funcional y técnica programados para Oct y Nov, 2021."
+    ]
+  },
+  {
+    "year": 2021,
+    "name": "Orquestador de Servicios Leasing (ebk_leasingWS)",
+    "summary": "Desarrollo de aplicación en el WAS para interpretar métodos JSON de FinanceOne y transformarlos a formato XML.",
+    "highlights": [
+      "Desarrollo de aplicación en el WAS para interpretar métodos JSON de FinanceOne y transformarlos a formato XML.",
+      "Exposición de servicios SOAP críticos como GetOperacion, PagarAlquiler, ReimprimirRecibo y ReversarPago.",
+      "Implementación de validaciones backend en el servicio de Pase Asiento para prevenir registros duplicados.",
+      "Consumo de API REST del proveedor mediante el orquestador para alimentar los sistemas internos del banco."
+    ]
+  },
+  {
+    "year": 2021,
+    "name": "Migración de Datos Leasing",
+    "summary": "Extracción y carga de aproximadamente 2,000 operaciones de leasing desde el motor Oracle hacia SQL Server en la nube.",
+    "highlights": [
+      "Extracción y carga de aproximadamente 2,000 operaciones de leasing desde el motor Oracle hacia SQL Server en la nube.",
+      "Generación de queries complejos para el mapeo de contratos, activos, clientes y tablas de pago según estructuras de FinanceOne.",
+      "Proceso de depuración de datos para campos obligatorios sin valor, direcciones y homologación de tipos de identificación.",
+      "Conciliación técnica y funcional de la cartera migrada mediante validaciones cuantitativas de saldos y registros."
+    ]
+  },
+  {
+    "year": 2021,
+    "name": "Seguridad y Aseguramiento MPGW",
+    "summary": "Creación de Multi-Protocol Gateways (MPGW_FinanceOne) en DataPower para el intercambio seguro de información con la nube.",
+    "highlights": [
+      "Creación de Multi-Protocol Gateways (MPGW_FinanceOne) en DataPower para el intercambio seguro de información con la nube.",
+      "Gestión de pruebas de penetración \"Caja Negra\" y remediación de vulnerabilidades detectadas en servicios web.",
+      "Configuración de reglas de filtrado y apertura de puertos exclusivos (ej. 8022) para aislar el tráfico del proveedor.",
+      "Establecimiento de una infraestructura de comunicación segura basada en IPs públicas y listas de acceso permitidas."
+    ]
+  },
+  {
+    "year": 2021,
+    "name": "Integración de Facturación Electrónica Leasing",
+    "summary": "Análisis de escenarios para la emisión de facturas electrónicas diarias (3,000–3,500 documentos) integradas con el nuevo core.",
+    "highlights": [
+      "Análisis de escenarios para la emisión de facturas electrónicas diarias (3,000–3,500 documentos) integradas con el nuevo core.",
+      "Valuación de integración con el proveedor AVD International mediante archivos Excel o conexión directa por API.",
+      "Sincronización de correos electrónicos de clientes para el despacho masivo de comprobantes electrónicos."
+    ]
+  },
+  {
+    "year": 2021,
+    "name": "Ley de Usura - Medios de Pago (TCR y Corporativas)",
+    "summary": "Incorporación de las tasas TITA y TAM desde el originador Evertec para estados de cuenta (EC).",
+    "highlights": [
+      "Incorporación de las tasas TITA y TAM desde el originador Evertec para estados de cuenta (EC).",
+      "Automatización de la carga de archivos (ESTCUE, MOVDIA, EXTDET) mediante procesos ETL y monitoreo en base de datos (BD).",
+      "Segmentación de ley para 86 campos nuevos en el diseño de estados de cuenta pasivos y corporativos.",
+      "Ajuste de procedimientos almacenados (SPs) en Sybase 12.5 para el cuadre de totales por segmento."
+    ]
+  },
+  {
+    "year": 2021,
+    "name": "Ley de Usura - Cartera (Tasa TITA / TAM)",
+    "summary": "Desarrollo de la funcionalidad para el cálculo y visualización de la tasa TITA en el sistema Ultimus.",
+    "highlights": [
+      "Desarrollo de la funcionalidad para el cálculo y visualización de la tasa TITA en el sistema Ultimus.",
+      "Creación de interfaces (COMVEN) entre Ultimus y el Core COBIS para la gestión de comisiones y otros gastos.",
+      "Implementación de catálogos específicos (ca_otros_gastos) y nuevos códigos de error (720601-720609) para validaciones de ley.",
+      "Ajuste de servicios web SOAP desplegados en WAS para la creación y liquidación de operaciones."
+    ]
+  },
+  {
+    "year": 2021,
+    "name": "Migración Workflow a Helios (Ley de Usura)",
+    "summary": "Migración integral de los flujos de Back to Back, Crédito Personal, Vehículos y Leasing desde Workflow hacia Helios por obsolescencia técnica.",
+    "highlights": [
+      "Migración integral de los flujos de Back to Back, Crédito Personal, Vehículos y Leasing desde Workflow hacia Helios por obsolescencia técnica.",
+      "Encapsulamiento de los cálculos de Ley de Usura en un subproceso único de Helios para ser invocado por múltiples flujos.",
+      "Parametrización de campos requeridos para la obtención de datos de ley sin desarrollo de lógica de fondo (sistema 100% parametrizable).",
+      "Certificación UAT de los acoples al subproceso de Ley de Usura para el cumplimiento normativo."
+    ]
+  },
+  {
+    "year": 2021,
+    "name": "Folleto Explicativo y Contratos (Legal Design)",
+    "summary": "Generación automatizada de folletos explicativos para productos de crédito (Hipotecario, Prendario, Leasing) integrados en Helios.",
+    "highlights": [
+      "Generación automatizada de folletos explicativos para productos de crédito (Hipotecario, Prendario, Leasing) integrados en Helios.",
+      "Desarrollo de API Rest (ApiFileBuilder) bajo arquitectura K8s y NetCore para la edición y generación de documentos PDF en BASE64.",
+      "Adaptación de CAMS y AdminBV para la impresión física y envío por correo (NetRetails) de contratos bajo el formato \"Legal Design\".",
+      "Implementación de plantillas dinámicas centralizadas en un repositorio de servidores para su consumo administrado."
+    ]
+  },
+  {
+    "year": 2021,
+    "name": "Seguros Externos - Ley de Usura",
+    "summary": "Implementación de pantallas en COBIS Cartera para la carga masiva de pólizas de seguros externos mediante archivos planos.",
+    "highlights": [
+      "Implementación de pantallas en COBIS Cartera para la carga masiva de pólizas de seguros externos mediante archivos planos.",
+      "Desarrollo de validaciones técnicas y operativas para la actualización de datos de pólizas en el Core.",
+      "Ajuste de procedimientos de mantenimiento de componentes eventuales (sp_mantenimiento_componentes_eventuales) para el control de rubros de seguros."
+    ]
+  }
+]

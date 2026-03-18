@@ -1,0 +1,133 @@
+{
+  "GetProjectsResponse": {
+    "Years": [
+      {
+        "year": "2026",
+        "projects": [
+          {
+            "name": "Mobile Application (Evolution & Modernization)",
+            "summary": "Refactoring and evolution of critical services under a decoupled, cloud-native architecture.",
+            "highlights": [
+              "Implementation of a decoupled architecture integrating AWS (SQS, SNS) with PostgreSQL persistence.",
+              "Application of observability practices (structured logging, metrics, health checks).",
+              "Optimization of transfer services, biometric authentication, and key management.",
+              "Design of services for investment certificates and balance inquiries."
+            ]
+          },
+          {
+            "name": "Digital Onboarding & KYC",
+            "summary": "Automation of customer digital onboarding processes.",
+            "highlights": [
+              "Implementation and enhancement of KYC services.",
+              "Development of digital onboarding workflows."
+            ]
+          },
+          {
+            "name": "Messaging & Integrations (MQ / ISO)",
+            "summary": "Modernization of integrations with legacy systems and external processors.",
+            "highlights": [
+              "Migration and development of services over MQ messaging queues.",
+              "Integration with ISO 8583 messages for credit card processing."
+            ]
+          },
+          {
+            "name": "Payments & Automation",
+            "summary": "Automation of recurring payments and notification systems.",
+            "highlights": [
+              "Implementation of batch processing and scheduled tasks.",
+              "Design of payment processing and query services."
+            ]
+          },
+          {
+            "name": "Error Handling & Whitelisting",
+            "summary": "Standardization and certification of error codes.",
+            "highlights": [
+              "Normalization of error codes and handling of critical states.",
+              "Implementation of reporting and auditing mechanisms."
+            ]
+          }
+        ]
+      },
+      {
+        "year": "2025",
+        "projects": [
+          {
+            "name": "Security Services & OTP",
+            "summary": "Implementation of authentication and validation mechanisms.",
+            "highlights": [
+              "OTP generation and SMS notification services.",
+              "Deployment of APIs on IIS for critical workflows."
+            ]
+          },
+          {
+            "name": "Containerized Architecture",
+            "summary": "Adoption of cloud-native architecture using Kubernetes.",
+            "highlights": [
+              "Deployment management with Docker and Helm.",
+              "CI/CD automation."
+            ]
+          },
+          {
+            "name": "Encryption Services",
+            "summary": "Implementation of security services and certificate management.",
+            "highlights": [
+              "Development of decoupled services using .NET 8.",
+              "Key management and AES encryption."
+            ]
+          }
+        ]
+      },
+      {
+        "year": "2024",
+        "projects": [
+          {
+            "name": "Core APIs & K8s Architecture",
+            "summary": "Exposure of backend services under a microservices architecture.",
+            "highlights": [
+              "Development of scalable REST APIs.",
+              "Implementation of architectural patterns."
+            ]
+          },
+          {
+            "name": "ETL & Data Processing",
+            "summary": "Optimization of data processing and reporting workflows.",
+            "highlights": [
+              "Design and implementation of ETL processes.",
+              "SQL query and stored procedure optimization."
+            ]
+          }
+        ]
+      },
+      {
+        "year": "2023-2021",
+        "projects": [
+          {
+            "name": "Legacy Systems Integration",
+            "summary": "Modernization and integration with legacy platforms.",
+            "highlights": [
+              "Development of SOAP and REST services.",
+              "Implementation of API Gateways.",
+              "Application of idempotency and transaction control."
+            ]
+          },
+          {
+            "name": "Financial Transaction Processing",
+            "summary": "Implementation of business logic for payment and transaction processing.",
+            "highlights": [
+              "Integration with ISO 8583 and financial systems.",
+              "Real-time transaction processing."
+            ]
+          },
+          {
+            "name": "Automation & Reporting",
+            "summary": "Automation of processes and report generation.",
+            "highlights": [
+              "Implementation of batch and ETL processes.",
+              "PDF report generation and notification systems."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

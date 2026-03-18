@@ -1,0 +1,49 @@
+{
+  "root": "workspace",
+  "generatedAt": "2026-03-11T00:00:00.0000000-06:00",
+  "defaultLang": "en",
+  "files": [
+    "about.py",
+    "contact.sh",
+    "experience.log",
+    "learn.cs",
+    "projects.java",
+    "resume.md",
+    "skills.json"
+  ],
+  "languages": {
+    "en": {
+      "baseDir": "en",
+      "files": [
+        "about.py",
+        "contact.sh",
+        "experience.log",
+        "learn.cs",
+        "projects.java",
+        "resume.md",
+        "skills.json"
+      ]
+    },
+    "es": {
+      "baseDir": "es",
+      "aliases": {
+        "about.py": "acerca.py",
+        "contact.sh": "contacto.sh",
+        "experience.log": "experiencia.log",
+        "learn.cs": "conocimientos.cs",
+        "projects.java": "proyectos.java",
+        "resume.md": "cv.md",
+        "skills.json": "habilidades.json"
+      },
+      "files": [
+        "acerca.py",
+        "contacto.sh",
+        "experiencia.log",
+        "conocimientos.cs",
+        "proyectos.java",
+        "cv.md",
+        "habilidades.json"
+      ]
+    }
+  }
+}

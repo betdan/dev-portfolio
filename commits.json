@@ -1,0 +1,46 @@
+[
+  {
+    "commit": "2025",
+    "message": "feat: .NET 10, AWS (API Gateway, Lambda, DynamoDB), event-driven systems, gRPC."
+  },
+  {
+    "commit": "2024",
+    "message": "feat: .NET 8, event-driven architecture, gRPC services, CI/CD pipelines, SonarQube."
+  },
+  {
+    "commit": "2023",
+    "message": "feat: .NET 7, observability (Seq, structured logging), Docker, container registries, Kubernetes, Helm, Angular v15, microfrontend architecture, Redis, RabbitMQ, Jira, Azure DevOps."
+  },
+  {
+    "commit": "2021",
+    "message": "feat: .NET 6, RESTful API design, JWT authentication, microservices architecture, dependency injection, async/await patterns."
+  },
+  {
+    "commit": "2020",
+    "message": "feat: REST APIs, JSON, Postman, Swagger/OpenAPI documentation, PostgreSQL."
+  },
+  {
+    "commit": "2018",
+    "message": "feat: MongoDB, NoSQL data modeling, distributed systems."
+  },
+  {
+    "commit": "2017",
+    "message": "feat: enterprise integration using IBM Integration Toolkit, IBM DataPower, IBM MQ."
+  },
+  {
+    "commit": "2015",
+    "message": "feat: .NET Framework development, C#, enterprise backend services."
+  },
+  {
+    "commit": "2009",
+    "message": "feat: Java backend development, SOAP/XML services, Apache Tomcat, Oracle Database, IBM WebSphere."
+  },
+  {
+    "commit": "2008",
+    "message": "feat: Visual Studio, SQL Server Management Studio, SQL Server Data Tools, SSRS, SSIS."
+  },
+  {
+    "commit": "2007",
+    "message": "feat: Transact-SQL, Visual Basic 6.0, Crystal Reports, Microsoft Access, PHP, HTML, JavaScript, CSS, Unix, Linux, Windows."
+  }
+]

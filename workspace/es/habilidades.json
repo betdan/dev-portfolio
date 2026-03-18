@@ -1,0 +1,103 @@
+{
+  "lenguajes_de_programacion": [
+    "C#",
+    "Java",
+    "Python",
+    "TypeScript",
+    "HTML",
+    "CSS"
+  ],
+  "frameworks": {
+    "backend": [
+      ".NET",
+      "ASP.NET Core",
+      "Quarkus"
+    ],
+    "frontend": [
+      "Angular"
+    ]
+  },
+  "ecosistema_java": {
+    "build_tools": [
+      "Maven",
+      "Gradle"
+    ],
+    "frameworks": [
+      "Quarkus",
+      "ZK Framework"
+    ]
+  },
+  "integracion_empresarial": [
+    "IBM Integration Toolkit",
+    "IBM DataPower Gateway"
+  ],
+  "nube": [
+    "AWS"
+  ],
+  "control_de_versiones": [
+    "Git",
+    "GitHub",
+    "Azure DevOps",
+    "Team Foundation Server (TFS)",
+    "Harvest"
+  ],
+  "ci_cd": [
+    "Azure DevOps Pipelines",
+    "GitHub Actions"
+  ],
+  "calidad_de_codigo": [
+    "SonarQube"
+  ],
+  "gestion_de_proyectos": [
+    "Jira",
+    "Azure DevOps Boards",
+    "Zoho BugTracker"
+  ],
+  "bases_de_datos": {
+    "relacionales": [
+      "SQL Server",
+      "Oracle",
+      "PostgreSQL",
+      "Sybase"
+    ],
+    "no_relacionales": [
+      "MongoDB",
+      "Redis"
+    ]
+  },
+  "mensajeria_y_eventos": [
+    "RabbitMQ",
+    "AMQP",
+    "Arquitectura orientada a eventos"
+  ],
+  "arquitectura_y_diseno": [
+    "Microservicios | Microfrontend",
+    "Sistemas distribuidos",
+    "Diseño de APIs (REST, SOAP, gRPC)",
+    "Integración de sistemas empresariales",
+    "Arquitectura basada en eventos"
+  ],
+  "devops_e_infraestructura": [
+    "Docker",
+    "Kubernetes",
+    "Helm"
+  ],
+  "observabilidad_y_monitoreo": [
+    "Seq",
+    "CloudWatch"
+  ],
+  "seguridad": [
+    "JWT",
+    "OAuth2",
+    "Cifrado AES",
+    "Diseño seguro de APIs"
+  ],
+  "practicas_de_desarrollo": [
+    "Programación orientada a objetos (OOP)",
+    "Principios SOLID",
+    "Arquitectura limpia",
+    "CI/CD",
+    "Code Review",
+    "Desarrollo ágil"
+  ]
+}
