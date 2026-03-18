@@ -5,7 +5,7 @@ Full Stack Engineer | APIs (REST / SOAP) | Microservices / Microfrontends | Tech
 ## Contact
 - Email: danbet@gmail.com
 - Phone: +506 8719 9069
-- LinkedIn: www.linkedin.com/in/danielbetancourt-21155792
+- LinkedIn: https://www.linkedin.com/in/daniel-betancourt-21155792/
 
 ## Summary
 Senior Software Engineer with strong experience designing and building scalable backend systems, distributed APIs, and high-performance enterprise applications. Specialized in .NET and Java, with a focus on microservices, integrations, and data-driven platforms. Experienced with REST/SOAP/gRPC, event-driven systems using RabbitMQ (AMQP), WebSockets, AWS, and containerized deployments with Docker and Kubernetes.
