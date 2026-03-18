@@ -1,14 +1,14 @@
 [
   {
     "period": "feb 2025 - presente",
-    "role": "Senior Software Engineer",
+    "role": "Desarrollador Ingeniero Senior",
     "company": "Consultor independiente",
     "location": "Remoto",
     "highlights": [
       "Backend: .NET, Java",
       "Diseño e integración de APIs: REST, SOAP",
       "Sistemas distribuidos y microservicios",
-      "Mensajería y arquitectura orientada a eventos (AMQP / RabbitMQ)",
+      "Mensajería y arquitectura orientada a eventos (AMQP)",
       "Contenerización: Docker, Kubernetes",
       "Bases de datos: SQL y NoSQL",
       "Integración de sistemas y consultoría técnica"
@@ -16,29 +16,38 @@
   },
   {
     "period": "feb 2017 - may 2025",
-    "role": "Senior Software Engineer",
-    "company": "TechnoPartners"
+    "role": "Desarrollador Ingeniero Senior",
+    "company": "TechnoPartners",
+    "location": "Remoto",
+    "highlights": [
+      "Backend: .NET, Java",
+      "Diseño e integración de APIs: REST, SOAP",
+      "Sistemas distribuidos y microservicios",
+      "Mensajería y arquitectura orientada a eventos (AMQP)",
+      "Contenerización: Docker, Kubernetes",
+      "Bases de datos: SQL y NoSQL"
+    ]
   },
   {
     "period": "feb 2015 - ene 2017",
-    "role": "Consultant Engineer",
+    "role": "Ingeniero Consultor",
     "company": "BCG - Business Computer Group",
     "location": "Caracas, Venezuela",
     "highlights": [
-      "Soporte al área de Prevención & Cumplimiento y Anti-Fraude usando SWIFT Alliance",
+      "Soporte al área de Prevención & Cumplimiento / Anti-Fraude",
       "Diseño y desarrollo de aplicaciones empresariales en Java con SQL Server y Oracle",
       "Administración de Windows Server 2012",
       "Gestión de SQL Server 2012 (administración, monitoreo y soporte de rendimiento)"
     ]
   },
   {
-    "period": "jul 2009 - ene 2017",
-    "role": "Senior Technical Developer",
+    "period": "jul 2009 - ene 2015",
+    "role": "Desarrollador Ingeniero Senior",
     "company": "Bancaribe"
   },
   {
     "period": "jun 2007 - jun 2009",
-    "role": "Junior Software Engineer",
+    "role": "Desarrollador Ingeniero Junior",
     "company": "Bancaribe"
   }
 ]

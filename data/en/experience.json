@@ -17,7 +17,17 @@
   {
     "period": "Feb 2017 - May 2025",
     "role": "Senior Software Engineer",
-    "company": "TechnoPartners"
+    "company": "TechnoPartners",
+    "location": "Remote",
+    "highlights": [
+      "Backend development: .NET, Java",
+      "API design & integration: REST, SOAP",
+      "Distributed systems & microservices",
+      "Messaging & event-driven architecture (AMQP / RabbitMQ)",
+      "Containerization: Docker, Kubernetes",
+      "Databases: SQL & NoSQL",
+      "System integration & technical consulting"
+    ]
   },
   {
     "period": "Feb 2015 - Jan 2017",
@@ -25,14 +35,14 @@
     "company": "BCG - Business Computer Group",
     "location": "Caracas, Venezuela",
     "highlights": [
-      "Supported Prevention & Compliance / Anti-Fraud using SWIFT Alliance",
+      "Supported Prevention & Compliance / Anti-Fraud",
       "Designed and developed Java enterprise applications with SQL Server and Oracle",
       "Administered Windows Server 2012 environments",
       "Managed SQL Server 2012 databases (administration, monitoring, performance support)"
     ]
   },
   {
-    "period": "Jul 2009 - Jan 2017",
+    "period": "Jul 2009 - Jan 2015",
     "role": "Senior Technical Developer",
     "company": "Bancaribe"
   },
